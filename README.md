@@ -21,7 +21,8 @@ I am currently studying **Software Development** at the **Manitoba Institute of 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OusamaAlzhouri&layout=compact&theme=radical)
 
 ## 🌐 Connect With Me
-Linkedin : Ousama Alzhouri
+Linkedin : Ousama Alzhouri.
+
 Email : oouussaammaa33@gmail.com
 
 Thank you for visiting my profile! Let's collaborate and create something incredible. 🚀

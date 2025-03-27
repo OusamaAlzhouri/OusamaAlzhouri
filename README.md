@@ -1,3 +1,6 @@
+![Hero Banner](HERO-BANNER-GUTHUB.webp)
+
+
 # Hi there! 👋
 
 Welcome to my GitHub profile! I'm **Ousama Alzhouri**, a dedicated web developer passionate about front-end technologies and crafting clean, responsive web experiences. I am constantly refining my skills and exploring new ways to enhance my development process.

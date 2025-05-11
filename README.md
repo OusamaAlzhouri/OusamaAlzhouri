@@ -1,4 +1,4 @@
-![Hero Banner](HERO-BANNER-GUTHUB.webp)
+![Hero Banner]()
 
 
 # Hi there! 👋
